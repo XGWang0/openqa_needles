@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 1,
+      "width": 672,
+      "height": 603,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virttest-boot_from_pxe"
+  ]
+}

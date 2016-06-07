@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 145,
+      "xpos": 13,
+      "width": 317,
+      "ypos": 182,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 351,
+      "height": 60,
+      "ypos": 108,
+      "width": 160
+    },
+    {
+      "type": "match",
+      "width": 121,
+      "ypos": 109,
+      "height": 56,
+      "xpos": 693
+    }
+  ],
+  "tags": [
+    "languagepicked"
+  ],
+  "properties": []
+}

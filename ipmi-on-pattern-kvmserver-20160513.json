@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-kvmserver"
+  ],
+  "area": [
+    {
+      "width": 205,
+      "ypos": 391,
+      "xpos": 97,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

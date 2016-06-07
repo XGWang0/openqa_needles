@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 367,
+      "ypos": 309,
+      "width": 285,
+      "height": 146,
+      "type": "match"
+    },
+    {
+      "xpos": 404,
+      "ypos": 533,
+      "width": 222,
+      "height": 103,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "generic-destop",
+    "generic-destop-virt"
+  ]
+}

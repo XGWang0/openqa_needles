@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "virttest-prompt-pex-install"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 189,
+      "ypos": 29,
+      "width": 119,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 162,
+      "ypos": 256,
+      "width": 171,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 369,
+      "width": 37,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}
